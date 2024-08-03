@@ -14,7 +14,6 @@
   - [Support Vector Machines (SVM)](#support-vector-machines-svm)
   - [Simple Linear Regression](#simple-linear-regression)
   - [Cross Validation](#cross-validation)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
