@@ -54,10 +54,10 @@ SVM is a supervised learning model used for classification and regression analys
 Simple linear regression is a linear approach to modeling the relationship between a dependent variable and one independent variable.
 
 ### Cross Validation
-Cross validation is a technique for assessing how a predictive model will generalize to an independent dataset. It is primarily used to estimate the skill of a model on unseen data.
+Cross Validation is a technique for assessing how a predictive model will generalize to an independent dataset. It is primarily used to estimate the skill of a model on unseen data.
 
 ## Usage
-Each algorithm is demonstrated in separate Jupyter notebooks. You can run these notebooks to see the implementations and understand the working of each algorithm.
+Each algorithm is demonstrated in separate Jupyter notebooks. You can run these notebooks to see the implementations and understand the workings of each algorithm.
 ```bash
 jupyter notebook
 
