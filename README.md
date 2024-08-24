@@ -16,7 +16,7 @@
   - [Cross Validation](#cross-validation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 This project contains implementations and practice codes for various machine learning algorithms. Each algorithm is explained and demonstrated through code examples to help in understanding their functionality and use cases.
