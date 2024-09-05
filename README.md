@@ -19,7 +19,7 @@
 
 
 ## Introduction
-This project contains implementations and practice codes for various machine learning algorithms. Each algorithm is explained and demonstrated through code examples to help in understanding their functionality and use cases.
+This project contains implementations and practice codes for various Machine Learning algorithms. Each algorithm is explained and demonstrated through code examples to help in understanding their functionality and use cases.
 
 ## Algorithms
 
